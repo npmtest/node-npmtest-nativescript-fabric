@@ -1,69 +1,69 @@
 <svg height="1054" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1054" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 18:15:06 +0000   105419 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 18:15:06 +0000     6804 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 18:15:06 +0000     1773 bytes  Jenkinsfile</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 18:15:06 +0000     1073 bytes  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 18:15:06 +0000     3554 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 18:15:06 +0000       81 bytes  fabric.android.d.ts</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 18:15:06 +0000     5197 bytes  fabric.android.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 18:15:06 +0000      374 bytes  fabric.appdelegate.d.ts</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 18:15:06 +0000      619 bytes  fabric.appdelegate.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 18:15:06 +0000      552 bytes  fabric.common.d.ts</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 18:15:06 +0000      230 bytes  fabric.common.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 18:15:06 +0000      150 bytes  fabric.ios.d.ts</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 18:15:06 +0000     3092 bytes  fabric.ios.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 18:15:06 +0000      241 bytes  index.d.ts</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 18:15:06 +0000     3975 bytes  lib/after-prepare.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 18:15:06 +0000     2832 bytes  package.json</tspan>
-<tspan x="10" y="282"> 16.  2017-04-20 18:15:06 +0000      188 bytes  platforms/android/AndroidManifest.xml</tspan>
-<tspan x="10" y="298"> 17.  2017-04-20 18:15:06 +0000      776 bytes  platforms/android/README.md</tspan>
-<tspan x="10" y="314"> 18.  2017-04-20 18:15:06 +0000      863 bytes  platforms/android/include.gradle</tspan>
-<tspan x="10" y="330"> 19.  2017-04-20 18:15:06 +0000      581 bytes  platforms/android/libraryproject/app/build.gradl\</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 18:16:10 +0000   105419 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 18:16:10 +0000     6804 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 18:16:10 +0000     1773 bytes  Jenkinsfile</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 18:16:10 +0000     1073 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 18:16:10 +0000     3554 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 18:16:10 +0000       81 bytes  fabric.android.d.ts</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 18:16:10 +0000     5197 bytes  fabric.android.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 18:16:10 +0000      374 bytes  fabric.appdelegate.d.ts</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 18:16:10 +0000      619 bytes  fabric.appdelegate.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 18:16:10 +0000      552 bytes  fabric.common.d.ts</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 18:16:10 +0000      230 bytes  fabric.common.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 18:16:10 +0000      150 bytes  fabric.ios.d.ts</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 18:16:10 +0000     3092 bytes  fabric.ios.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 18:16:10 +0000      241 bytes  index.d.ts</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 18:16:10 +0000     3975 bytes  lib/after-prepare.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 18:16:10 +0000     2832 bytes  package.json</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 18:16:10 +0000      188 bytes  platforms/android/AndroidManifest.xml</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 18:16:10 +0000      776 bytes  platforms/android/README.md</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 18:16:10 +0000      863 bytes  platforms/android/include.gradle</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 18:16:10 +0000      581 bytes  platforms/android/libraryproject/app/build.gradl\</tspan>
 <tspan x="10" y="346">e</tspan>
-<tspan x="10" y="362"> 20.  2017-04-20 18:15:06 +0000      680 bytes  platforms/android/libraryproject/app/proguard-ru\</tspan>
+<tspan x="10" y="362"> 20.  2017-04-20 18:16:10 +0000      680 bytes  platforms/android/libraryproject/app/proguard-ru\</tspan>
 <tspan x="10" y="378">les.pro</tspan>
-<tspan x="10" y="394"> 21.  2017-04-20 18:15:06 +0000      347 bytes  platforms/android/libraryproject/app/src/main/An\</tspan>
+<tspan x="10" y="394"> 21.  2017-04-20 18:16:10 +0000      347 bytes  platforms/android/libraryproject/app/src/main/An\</tspan>
 <tspan x="10" y="410">droidManifest.xml</tspan>
-<tspan x="10" y="426"> 22.  2017-04-20 18:15:06 +0000      202 bytes  platforms/android/libraryproject/app/src/main/re\</tspan>
+<tspan x="10" y="426"> 22.  2017-04-20 18:16:10 +0000      202 bytes  platforms/android/libraryproject/app/src/main/re\</tspan>
 <tspan x="10" y="442">s/values/colors.xml</tspan>
-<tspan x="10" y="458"> 23.  2017-04-20 18:15:06 +0000       70 bytes  platforms/android/libraryproject/app/src/main/re\</tspan>
+<tspan x="10" y="458"> 23.  2017-04-20 18:16:10 +0000       70 bytes  platforms/android/libraryproject/app/src/main/re\</tspan>
 <tspan x="10" y="474">s/values/strings.xml</tspan>
-<tspan x="10" y="490"> 24.  2017-04-20 18:15:06 +0000      361 bytes  platforms/android/libraryproject/app/src/main/re\</tspan>
+<tspan x="10" y="490"> 24.  2017-04-20 18:16:10 +0000      361 bytes  platforms/android/libraryproject/app/src/main/re\</tspan>
 <tspan x="10" y="506">s/values/styles.xml</tspan>
-<tspan x="10" y="522"> 25.  2017-04-20 18:15:06 +0000      498 bytes  platforms/android/libraryproject/build.gradle</tspan>
-<tspan x="10" y="538"> 26.  2017-04-20 18:15:06 +0000      574 bytes  platforms/android/libraryproject/errorhandler/bu\</tspan>
+<tspan x="10" y="522"> 25.  2017-04-20 18:16:10 +0000      498 bytes  platforms/android/libraryproject/build.gradle</tspan>
+<tspan x="10" y="538"> 26.  2017-04-20 18:16:10 +0000      574 bytes  platforms/android/libraryproject/errorhandler/bu\</tspan>
 <tspan x="10" y="554">ild.gradle</tspan>
-<tspan x="10" y="570"> 27.  2017-04-20 18:15:06 +0000      680 bytes  platforms/android/libraryproject/errorhandler/pr\</tspan>
+<tspan x="10" y="570"> 27.  2017-04-20 18:16:10 +0000      680 bytes  platforms/android/libraryproject/errorhandler/pr\</tspan>
 <tspan x="10" y="586">oguard-rules.pro</tspan>
-<tspan x="10" y="602"> 28.  2017-04-20 18:15:06 +0000      545 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
+<tspan x="10" y="602"> 28.  2017-04-20 18:16:10 +0000      545 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
 <tspan x="10" y="618">c/main/AndroidManifest.xml</tspan>
-<tspan x="10" y="634"> 29.  2017-04-20 18:15:06 +0000     1539 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
+<tspan x="10" y="634"> 29.  2017-04-20 18:16:10 +0000     1539 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
 <tspan x="10" y="650">c/main/java/org/nativescript/plugins/fabric/ErrorReportActivity.java</tspan>
-<tspan x="10" y="666"> 30.  2017-04-20 18:15:06 +0000     1319 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
+<tspan x="10" y="666"> 30.  2017-04-20 18:16:10 +0000     1319 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
 <tspan x="10" y="682">c/main/java/org/nativescript/plugins/firebase/FirebasePlugin.java</tspan>
-<tspan x="10" y="698"> 31.  2017-04-20 18:15:06 +0000      144 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
+<tspan x="10" y="698"> 31.  2017-04-20 18:16:10 +0000      144 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
 <tspan x="10" y="714">c/main/java/org/nativescript/plugins/firebase/FirebasePluginListener.java</tspan>
-<tspan x="10" y="730"> 32.  2017-04-20 18:15:06 +0000      541 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
+<tspan x="10" y="730"> 32.  2017-04-20 18:16:10 +0000      541 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
 <tspan x="10" y="746">c/main/java/org/nativescript/plugins/firebase/MyFirebaseInstanceIDService.java</tspan>
-<tspan x="10" y="762"> 33.  2017-04-20 18:15:06 +0000     2131 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
+<tspan x="10" y="762"> 33.  2017-04-20 18:16:10 +0000     2131 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
 <tspan x="10" y="778">c/main/java/org/nativescript/plugins/firebase/MyFirebaseMessagingService.java</tspan>
-<tspan x="10" y="794"> 34.  2017-04-20 18:15:06 +0000       71 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
+<tspan x="10" y="794"> 34.  2017-04-20 18:16:10 +0000       71 bytes  platforms/android/libraryproject/errorhandler/sr\</tspan>
 <tspan x="10" y="810">c/main/res/values/strings.xml</tspan>
-<tspan x="10" y="826"> 35.  2017-04-20 18:15:06 +0000      855 bytes  platforms/android/libraryproject/gradle.properti\</tspan>
+<tspan x="10" y="826"> 35.  2017-04-20 18:16:10 +0000      855 bytes  platforms/android/libraryproject/gradle.properti\</tspan>
 <tspan x="10" y="842">es</tspan>
-<tspan x="10" y="858"> 36.  2017-04-20 18:15:06 +0000    53636 bytes  platforms/android/libraryproject/gradle/wrapper/\</tspan>
+<tspan x="10" y="858"> 36.  2017-04-20 18:16:10 +0000    53636 bytes  platforms/android/libraryproject/gradle/wrapper/\</tspan>
 <tspan x="10" y="874">gradle-wrapper.jar</tspan>
-<tspan x="10" y="890"> 37.  2017-04-20 18:15:06 +0000      231 bytes  platforms/android/libraryproject/gradle/wrapper/\</tspan>
+<tspan x="10" y="890"> 37.  2017-04-20 18:16:10 +0000      231 bytes  platforms/android/libraryproject/gradle/wrapper/\</tspan>
 <tspan x="10" y="906">gradle-wrapper.properties</tspan>
-<tspan x="10" y="922"> 38.  2017-04-20 18:15:06 +0000     4971 bytes  platforms/android/libraryproject/gradlew</tspan>
-<tspan x="10" y="938"> 39.  2017-04-20 18:15:06 +0000     2314 bytes  platforms/android/libraryproject/gradlew.bat</tspan>
-<tspan x="10" y="954"> 40.  2017-04-20 18:15:06 +0000       24 bytes  platforms/android/libraryproject/settings.gradle</tspan>
-<tspan x="10" y="970"> 41.  2017-04-20 18:15:06 +0000       58 bytes  platforms/ios/Podfile</tspan>
-<tspan x="10" y="986"> 42.  2017-04-20 18:15:06 +0000       54 bytes  postinstall.js</tspan>
-<tspan x="10" y="1002"> 43.  2017-04-20 18:15:06 +0000       55 bytes  preuninstall.js</tspan>
-<tspan x="10" y="1018"> 44.  2017-04-20 18:15:06 +0000       85 bytes  references.d.ts</tspan>
-<tspan x="10" y="1034"> 45.  2017-04-20 18:15:06 +0000      479 bytes  tsconfig.json</tspan>
+<tspan x="10" y="922"> 38.  2017-04-20 18:16:10 +0000     4971 bytes  platforms/android/libraryproject/gradlew</tspan>
+<tspan x="10" y="938"> 39.  2017-04-20 18:16:10 +0000     2314 bytes  platforms/android/libraryproject/gradlew.bat</tspan>
+<tspan x="10" y="954"> 40.  2017-04-20 18:16:10 +0000       24 bytes  platforms/android/libraryproject/settings.gradle</tspan>
+<tspan x="10" y="970"> 41.  2017-04-20 18:16:10 +0000       58 bytes  platforms/ios/Podfile</tspan>
+<tspan x="10" y="986"> 42.  2017-04-20 18:16:10 +0000       54 bytes  postinstall.js</tspan>
+<tspan x="10" y="1002"> 43.  2017-04-20 18:16:10 +0000       55 bytes  preuninstall.js</tspan>
+<tspan x="10" y="1018"> 44.  2017-04-20 18:16:10 +0000       85 bytes  references.d.ts</tspan>
+<tspan x="10" y="1034"> 45.  2017-04-20 18:16:10 +0000      479 bytes  tsconfig.json</tspan>
 </text>
 </svg>
